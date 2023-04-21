@@ -10,4 +10,4 @@
 
 ### Database url
 
-mysql://b481f8fcfd42a9:29985825@eu-cdbr-west-03.cleardb.net/heroku_f57d963657678a7?reconnect=true
+- mysql://b481f8fcfd42a9:29985825@eu-cdbr-west-03.cleardb.net/heroku_f57d963657678a7?reconnect=true
